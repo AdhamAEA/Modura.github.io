@@ -8,11 +8,11 @@
         display: grid;
         grid-template-columns:1fr;
         grid-template-rows: 60px 1fr 1fr 60px;
-        background-color: #E9EFE7;
+        background-color: rgb(249, 247, 240);
       }
       header
        {
-        border-top: 3px solid #006400;
+        border-top: 3px solid #304943;
         border-bottom: 1px solid #0000;
         grid-column: 1 / -1;
        }
@@ -37,7 +37,7 @@
         justify-content: center;
         align-items: center;
         word-spacing: 40px;
-        background-color: rgb(248, 248, 248); 
+        background-color: #304943; 
     }
     h1, h3 {
         color: gray;
@@ -60,21 +60,21 @@
     /*--------------------------------------------------*/ 
     
     a.link {
-        color: #006400	;
+        color: #304943	;
         font-family: sans-serif;
         text-decoration: none;
     }
     a {
-        color: gray;
+        color: black;
         font-family: sans-serif;
     }
     
     p.header{
-        color: #006400	;
+        color: black	;
         font-family: sans-serif;
     }
     p.spacer{
-        background-color: #006400	;
+        background-color: black	;
     }
     
     p, td, footer{
@@ -82,13 +82,13 @@
         font-family: sans-serif;
     }
     .bar { 
-        background-color: rgb(192, 192, 192); 
+        background-color: rgb(249, 247, 240); 
         width: 50%; 
         border-radius: 15px;
     } 
     
     .skill { 
-        background-color: #006400	; 
+        background-color: #304943	; 
         color: white; 
         padding: 2%; 
         text-align: right; 
@@ -135,7 +135,7 @@
     }
     a.hover:hover{
 
-        color: #006400;
+        color: white;
     }
     p.faint{
         color: gray;
@@ -151,11 +151,11 @@
         display: grid;
         grid-template-columns: 300px 1fr;
         grid-template-rows: 60px 1fr 1fr 60px;
-        background-color: #E9EFE7;
+        background-color:rgb(249, 247, 240);
       }
       header
        {
-        border-top: 3px solid #006400	;
+        border-top: 3px solid #304943	;
         border-bottom: 1 solid rgb(232, 232, 232);
         grid-column: 1 / -1;
        }
@@ -180,10 +180,10 @@
         justify-content: center;
         align-items: center;
         word-spacing: 40px;
-        background-color: rgb(248, 248, 248); 
+        background-color: #304943; 
     }
     h1, h3 {
-        color: gray;
+        color: #304943;
         font-family: sans-serif;
         font-weight: 100;
     }
@@ -201,21 +201,21 @@
     /*--------------------------------------------------*/ 
     
     a.link {
-        color: #006400	;
+        color: #304943	;
         font-family: sans-serif;
         text-decoration: none;
     }
     a {
-        color: gray;
+        color: black;
         font-family: sans-serif;
     }
     
     p.header{
-        color: #006400	;
+        color: black	;
         font-family: sans-serif;
     }
     p.spacer{
-        background-color: #006400	;
+        background-color: #304943	;
     }
     
     p, td, footer{
@@ -223,13 +223,13 @@
         font-family: sans-serif;
     }
     .bar { 
-        background-color: rgb(192, 192, 192); 
+        background-color: rgb(249, 247, 240); 
         width: 50%; 
         border-radius: 15px;
     } 
     
     .skill { 
-        background-color: #006400	; 
+        background-color: #304943	; 
         color: white; 
         padding: 2%; 
         text-align: right; 
@@ -262,7 +262,7 @@
     }
     a.hover:hover{
 
-        color: #006400	;
+        color: white	;
     }
     p.faint{
         color: gray;
