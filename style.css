@@ -70,7 +70,7 @@
     }
     
     p.header{
-        color: white	;
+        color: black	;
         font-family: sans-serif;
     }
     p.spacer{
@@ -138,7 +138,7 @@
         color: black;
     }
     p.faint{
-        color: gray;
+        color: #304943;
     }
 }
 @media screen and (min-width: 601px){
@@ -211,7 +211,7 @@
     }
     
     p.header{
-        color: white	;
+        color: black	;
         font-family: sans-serif;
     }
     p.spacer{
@@ -265,7 +265,7 @@
         color: black	;
     }
     p.faint{
-        color: gray;
+        color: #304943;
     }
 
 }
