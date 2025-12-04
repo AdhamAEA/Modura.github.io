@@ -65,12 +65,12 @@
         text-decoration: none;
     }
     a {
-        color: black;
+        color: white;
         font-family: sans-serif;
     }
     
     p.header{
-        color: black	;
+        color: white	;
         font-family: sans-serif;
     }
     p.spacer{
@@ -135,7 +135,7 @@
     }
     a.hover:hover{
 
-        color: white;
+        color: black;
     }
     p.faint{
         color: gray;
@@ -206,12 +206,12 @@
         text-decoration: none;
     }
     a {
-        color: black;
+        color: white;
         font-family: sans-serif;
     }
     
     p.header{
-        color: black	;
+        color: white	;
         font-family: sans-serif;
     }
     p.spacer{
@@ -262,7 +262,7 @@
     }
     a.hover:hover{
 
-        color: white	;
+        color: black	;
     }
     p.faint{
         color: gray;
